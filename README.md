@@ -7,7 +7,7 @@ GGM & Co E-Commerce
 3. php artisan serve
 4. localhost:8000
 
-## What is problem in local?
+## What is the problem in local?
 
 1. Change .env.example to .env
 2. In .env, change database username to "root"
